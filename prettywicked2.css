@@ -411,7 +411,7 @@ left: 5px;
 left: 5px;
 }
 
-#ctl00_oCPH1_pnlWebGifts > div.giftContainer.inner.rounded > div:nth-child(2) > div > div.sliderContainer {
+.giftSlider {
     height: 100px!important;
 }
 
