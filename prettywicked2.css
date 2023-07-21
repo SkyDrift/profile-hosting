@@ -410,7 +410,7 @@ left: 5px;
 #ctl00_oCPH1_tbCommentsSection > tr:nth-child(1) > td:nth-child(1) > div:nth-child(1) > div:nth-child(2){
 left: 5px;
 }
-.giftSlider .sliderContainer {
+.sliderContainer {
     height: 100px!important;
 }
 
